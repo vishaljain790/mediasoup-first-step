@@ -4,7 +4,7 @@
   "description": "WebRTC SFU mediasoup v1.1 sample",
   "main": "mediasoup_sample_multi.js",
   "scripts": {
-    "start": "node mediasoup_sample_multi.js",
+    "start": "node mediasoup_sample_socketio.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
